@@ -1,13 +1,15 @@
 #include <stdio.h>
 
-int par(){
+int main(){
 
     int a;
 
     printf("Ingrese un numero: ");
     scanf("%i", &a);
 
-    if(a % 2 == 0){
+    if(a % 2 != 0){
+        printf("El numero es impar");
+    }else{
         printf("El numero es par");
     }
 
