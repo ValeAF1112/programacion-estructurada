@@ -7,7 +7,7 @@ Estas estructuras nos permiten variar el flujo del programa en base a unas deter
 Existen distintas estructuras condicionales:
 - If - else:
 
-  
+  {
   "if (condición) sentencia1;
   
   else if (condición) sentencia2;
@@ -15,7 +15,7 @@ Existen distintas estructuras condicionales:
   else if (condición) sentencia3;
 
   else sentencia4;"
-  
+  }
   Con esta estructura el flujo del programa únicamente entra en una de las condiciones.
   Si una de ellas se cumple, se ejecuta la sentencia correspondiente y salta hasta el final de la estructura para continuar con el programa.
 
