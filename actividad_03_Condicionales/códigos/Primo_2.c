@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int primo(){
+int main(){
 
     int num;
 
