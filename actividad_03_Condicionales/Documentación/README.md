@@ -6,6 +6,7 @@ También, en esta carpeta tenemos algunas capturas de pantalla de los códigos e
 - If - else.
 - Switch.
 - Operadores racionales.
+- Operadores lógicos.
 ## Compilación
 gcc main.c -o programa
 ## Ejecución
