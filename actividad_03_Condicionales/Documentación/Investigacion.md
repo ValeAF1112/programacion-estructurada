@@ -7,22 +7,18 @@ Estas estructuras nos permiten variar el flujo del programa en base a unas deter
 Existen distintas estructuras condicionales:
 - If - else:
 
-  ´´´
   
-  if (condición) sentencia1;
+  "if (condición) sentencia1;
   else if (condición) sentencia2;
   else if (condición) sentencia3;
-  else sentencia4;
-
-  ´´´
+  else sentencia4;"
+  
   Con esta estructura el flujo del programa únicamente entra en una de las condiciones.
   Si una de ellas se cumple, se ejecuta la sentencia correspondiente y salta hasta el final de la estructura para continuar con el programa.
 
 - Switch:
 
-  ´´´
-
-  switch (variable){
+  "switch (variable){
 		case contenido_variable1:
 			sentencias;
 			break;
@@ -31,8 +27,6 @@ Existen distintas estructuras condicionales:
 			break;
 		default:
 			sentencias;
-  }
-
-  ´´´
+  }"
 
   En esta estructura cada case puede incluir una o más sentencias sin necesidad de ir entre llaves, ya que se ejecutan todas hasta que se encuentra la sentencia BREAK. La variable evaluada sólo puede ser de tipo entero o caracter. default ejecutará las sentencias que incluya, en caso de que la opción escogida no exista.
