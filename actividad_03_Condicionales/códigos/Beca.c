@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int beca(){
+int main(){
 
     int P, R;
 
