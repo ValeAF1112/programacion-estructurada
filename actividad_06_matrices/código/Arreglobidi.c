@@ -3,7 +3,7 @@
 
 int main()
 {
-    /*char nombre[4][15];
+    char nombre[4][15];
 
     printf("Ingrese su primer nombre: ");
     fgets(nombre[0], sizeof(nombre[0]), stdin);
@@ -23,9 +23,8 @@ int main()
     for(int i = 0; i < 5; i++){
     printf("%d\n", &nombre[i]);
     }
-    */
 
-    int num[5];
+    */int num[5];
 
     for(int i = 0; i < 5; i++){
         scanf("%d", &num[i]);
@@ -41,7 +40,7 @@ int main()
     for(int i = 0; i < 5; i++){
     printf("%d\n", &nm[i]);
     }
-
+7*
 
     return 0;
 }
