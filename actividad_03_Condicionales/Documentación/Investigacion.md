@@ -41,6 +41,6 @@ Existen distintas estructuras condicionales:
 
   			sentencias;
   }"
-```
+```
 
   En esta estructura cada case puede incluir una o más sentencias sin necesidad de ir entre llaves, ya que se ejecutan todas hasta que se encuentra la sentencia BREAK. La variable evaluada sólo puede ser de tipo entero o caracter. default ejecutará las sentencias que incluya, en caso de que la opción escogida no exista.
