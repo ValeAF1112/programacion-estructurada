@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 
-int edad()
+int main()
 {
     int Edad;
     printf("Escriba su edad: ");
