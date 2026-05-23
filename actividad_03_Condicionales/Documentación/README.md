@@ -7,6 +7,7 @@ También, en esta carpeta tenemos algunas capturas de pantalla de los códigos e
 - Switch.
 - Operadores racionales.
 - Operadores lógicos.
+- Operadores aritméticos.
 ## Compilación
 gcc main.c -o programa
 ## Ejecución
