@@ -1,4 +1,4 @@
-# Actividad: Arreglos
+# Actividad: Estructuras cíclicas
 ## Descripción
 Serie de programas que utilizan las estructuras de control ciclicas (while, do-while, for). 
 ## Temas aplicados
