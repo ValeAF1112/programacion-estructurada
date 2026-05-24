@@ -4,6 +4,7 @@ Programas que nos ayudan a comprender como funcionan los arreglos en la programa
 ## Temas aplicados
 - arreglos
 - ciclos
+- operadores
 ## Compilación
 gcc main.c -o programa
 ## Ejecución
