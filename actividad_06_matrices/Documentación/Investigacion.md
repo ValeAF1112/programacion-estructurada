@@ -1,6 +1,7 @@
 **Matrices, arreglos bidimensionales y strings**
 
-**Matrices y arreglos bidimencionales**
+**Matrices y arreglos bidimencionales**}
+
 Una matriz es un vector de vectores o un también llamado array bidimensional.
 Una matriz bidimensional es una lista de matrices unidimensionales.
 Su sintaxis es así:
